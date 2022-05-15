@@ -1,8 +1,4 @@
 SELECT * 
-FROM Portfolio..vaccination
-ORDER BY location, date;
-
-SELECT * 
 FROM Portfolio..infection_and_death
 ORDER BY location, date;
 
